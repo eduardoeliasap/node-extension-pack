@@ -1,0 +1,30 @@
+{
+    "name": "node-extensions",
+    "publisher": "eduardoelias",
+    "galleryBanner": {
+        "color": "#030518",
+        "theme": "dark"
+    },
+    "keywords": [
+        "node",
+        "typescript",
+        "styled-components"
+    ],
+    "displayName": "node-extensions",
+    "description": "NodeJs extensions",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "AquaSecurityOfficial.trivy-vulnerability-scanner", 
+        "dbaeumer.vscode-eslint", 
+        "dracula-theme.theme-dracula", 
+        "ms-azuretools.vscode-docker", 
+        "PKief.material-icon-theme", 
+        "tinkertrain.theme-panda"
+    ]
+}
